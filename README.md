@@ -15,7 +15,7 @@ Laravel 13 (PHP 8.4), PostgreSQL 18, Redis 8, nginx 1.30, k6, Debugbar и Telesc
 
 ## Формат
 
-Методичка [`Perf_Lab_LaravelCoffeePerf.html`](Perf_Lab_LaravelCoffeePerf.html) — открывается в браузере, прогресс по чекбоксам сохраняется локально. Вычитана 04.10.2026 (21 находка, все исправлены): находки — в репозитории [`lab-fixes`](https://github.com/meeymirita/lab-fixes), файл `backend/laravel-performance.md`.
+Методичка [`laravel-performance.html`](laravel-performance.html) — открывается в браузере, прогресс по чекбоксам сохраняется локально. Вычитана 04.10.2026 (21 находка, все исправлены): находки — в репозитории [`lab-fixes`](https://github.com/meeymirita/lab-fixes), файл `backend/laravel-performance.md`.
 
 ## Что внутри (9 сессий, ~36 ч)
 
