@@ -15,7 +15,7 @@ Laravel 13 (PHP 8.4), PostgreSQL 18, Redis 8, nginx 1.30, k6, Debugbar и Telesc
 
 ## Формат
 
-Методичка [`laravel-performance.html`](laravel-performance.html) — открывается в браузере, прогресс по чекбоксам сохраняется локально. Вычитана 04.10.2026 (21 находка, все исправлены): находки — в репозитории [`lab-fixes`](https://github.com/meeymirita/lab-fixes), файл `backend/laravel-performance.md`.
+Методичка [`laravel-performance.html`](laravel-performance.html) ([открыть на сайте](https://anitech.meeymirita.ru/works/laravel-performance.html)) — открывается в браузере, прогресс по чекбоксам сохраняется локально. Вычитана 04.10.2026 (21 находка, все исправлены): находки — в репозитории [`lab-fixes`](https://github.com/meeymirita/lab-fixes), файл `backend/laravel-performance.md`.
 
 ## Что внутри (9 сессий, ~36 ч)
 
@@ -30,3 +30,7 @@ Laravel 13 (PHP 8.4), PostgreSQL 18, Redis 8, nginx 1.30, k6, Debugbar и Telesc
 - **Сессия 9** (~3 ч) — таблица «до → после», бюджет p95 и регрессионный тест k6 в CI, prod-образ
 
 Разделы 1–10 методички — теория и план, 11–14 — чек-лист «концепция ↔ где в коде», глоссарий, вопросы для собеседования, что дальше.
+
+## Лицензия и авторство
+
+Код — MIT, тексты — CC BY 4.0, обложки и иллюстрации не покрыты (см. [LICENSE](LICENSE)). Кто что сделал: [NOTICE](NOTICE).
