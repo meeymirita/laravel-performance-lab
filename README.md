@@ -1,6 +1,6 @@
 # Laravel Performance Lab — CoffeePerf
 
-![Laravel Performance](laravel-performance.png)
+![Laravel Performance](https://meeymirita-files.storage.yandexcloud.net/laravel-performance/laravel-performance.png)
 
 **Статус: ⚪ методичка вычитана и проверена запуском (04.10.2026), прохождение впереди.**
 **Сложность: базовая.** Проект самостоятельный, кода из других лаб не берёт. Нужен базовый Laravel (маршруты, контроллеры, Eloquent) и Docker Compose на уровне «поднять и посмотреть логи»; k6, профилировщики, OPcache и Octane объясняются с нуля.
